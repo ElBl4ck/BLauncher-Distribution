@@ -35,7 +35,7 @@
           },
           "subModules": [
             {
-              "id": "sodium",
+              "id": "maven.modrinth:sodium:mc1.21.1-0.6.5-neoforge",
               "name": "Sodium 0.6.5",
               "type": "ForgeMod",
               "classpath": true,
@@ -44,7 +44,7 @@
               },
               "artifact": {
                 "size": 0,
-                "url": "https://raw.githubusercontent.com/ElBl4ck/BLauncher-Distribution/main/mods/sodium-neoforge-0.6.5+neoforge.1.21.1.jar",
+                "url": "https://github.com/ElBl4ck/BLauncher-Distribution/blob/main/mods/sodium-neoforge-0.8.12%2Bmc1.21.11.jar",
                 "MD5": ""
               }
             }
