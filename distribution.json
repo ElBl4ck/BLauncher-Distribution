@@ -29,8 +29,8 @@
           "type": "ForgeHosted",
           "classpath": true,
           "artifact": {
-            "size": 0,
-            "url": "",
+            "size": 23456789,
+            "url": "https://maven.neoforged.net/releases/net/neoforged/neoforge/21.1.172/neoforge-21.1.172-installer.jar",
             "MD5": ""
           },
           "subModules": [
